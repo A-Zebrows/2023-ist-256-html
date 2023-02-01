@@ -7,7 +7,7 @@ This is my first readme file
 * readme
 * current events
 * html fonts
-* 
+
 ## Links
 https://www.google.com/
 
